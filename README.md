@@ -3,4 +3,5 @@ Every human being on the earth is fond of clicking photos, pictures etc. Hence, 
 
 #### Preprocessing steps:-
 Some preprocessing steps can help to get more clear Image.
-1. 
+
+1. Image threshold:- 
